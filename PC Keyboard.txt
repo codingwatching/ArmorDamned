@@ -1,0 +1,23 @@
+Control：
+A: 6x speed
+S: change cloth
+D: change cloth（wardrobe）
+Z: confirm/2x speed
+X: cancel/menu
+Shift: walk/run
+
+キーボード：
+A: スキップ（6倍速さ）
+S: 着替え
+D: 着替え（擬態）
+Z: 確認/スキップ（２倍速さ）
+X: 取り消し/メニュー
+Shift: 走る/歩く
+
+操作：
+A: 對話6倍速
+S: 更換服裝
+D: 更換服裝（拟态）
+Z: 確認/對話2倍速
+X: 取消/打開菜單
+Shift: 走路/跑步
